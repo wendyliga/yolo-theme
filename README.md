@@ -1,11 +1,11 @@
-# Yolo
+# Yolo Xcode Theme
 
-Xcode Theme insipired from [One Dark (Atom Theme)](https://github.com/atom/one-dark-syntax) and Xcode Default Presentation(Dark) theme.
+Xcode Theme inspired from [One Dark (Atom Theme)](https://github.com/atom/one-dark-syntax) and Xcode Default Presentation(Dark) theme.
 
 # Benefit
-- Use Ligatures, so lots of charachters combination is simplified.
-- Dark is always better right ?
-- Distinguisable Color for Class, Function, Constants and Type Name.
+- Use Ligatures, so lots of characters combination is simplified.
+- Dark never let you down.
+- Distinguishable Color for Class, Function, Constants, and Type Name.
 
 # Installation
 - Download `Yolo.xcolortheme`
