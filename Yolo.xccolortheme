@@ -107,7 +107,7 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.34902 0.384314 0.435294 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0.898039 0.756863 0.486275 1</string>
+		<string>0.360784 0.87451 0.74902 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
 		<string>0.360784 0.87451 0.74902 1</string>
 		<key>xcode.syntax.identifier.constant</key>
