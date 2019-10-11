@@ -4,7 +4,7 @@ Xcode Theme inspired from [One Dark (Atom Theme)](https://github.com/atom/one-da
 
 # Benefit
 - Use Ligatures, so lots of characters combination is simplified.
-- Dark never let you down.
+- Dark side will never let you down.
 - Distinguishable Color for Class, Function, Constants, and Type Name.
 
 # Installation
